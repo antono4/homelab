@@ -1,2 +1,27 @@
-Last updated: 2026-09-02 12:48:11 WIB
-Last updated: 2026-09-02 13:02:33 WIB
+# homelab
+
+
+
+## 📋 Overview
+
+This repository contains **226 files** and is built with the following technologies:
+
+Docker
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 🐳 Docker support
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Docker
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-02 13:03:30 WIB*
